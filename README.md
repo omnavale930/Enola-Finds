@@ -130,9 +130,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Developers**:
-- **Yash Pawar** - yashpawar1199@gmail.com
 - **Om Navale** - omnavale930@gmail.com
-- **Siddhanth Gaikwad** - siddhanthgaikwad7@gmail.com
 
 ---
 
